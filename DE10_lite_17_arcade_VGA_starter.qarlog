@@ -1,0 +1,65 @@
+Quartus Prime Archive log --	C:/Projects/FPGA/FPGA_design_store/DE10_lite_17_arcade_VGA_starter.qarlog
+
+Archive:	C:/Projects/FPGA/FPGA_design_store/DE10_lite_17_arcade_VGA_starter.qar
+Date:		Mon May 15 21:20:31 2023
+Quartus Prime		20.1.0 Build 711 06/05/2020 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/DELETE LATER/VGASTARTER/Draw_Ghost.sv
+C:/DELETE LATER/VGASTARTER/Draw_Intel.sv
+C:/DELETE LATER/VGASTARTER/Drawing_priority.sv
+C:/DELETE LATER/VGASTARTER/Ghost_unit.sv
+C:/DELETE LATER/VGASTARTER/Intel_unit.sv
+C:/DELETE LATER/VGASTARTER/Move_Ghost.sv
+C:/DELETE LATER/VGASTARTER/Move_Intel.sv
+C:/DELETE LATER/VGASTARTER/Screens_dispaly.sv
+C:/DELETE LATER/VGASTARTER/Top_template.sv
+C:/DELETE LATER/VGASTARTER/adc.qsys
+C:/DELETE LATER/VGASTARTER/adc.sopcinfo
+C:/DELETE LATER/VGASTARTER/adc/adc.cmp
+C:/DELETE LATER/VGASTARTER/adc/synthesis/adc.debuginfo
+C:/DELETE LATER/VGASTARTER/adc/synthesis/adc.qip
+C:/DELETE LATER/VGASTARTER/adc/synthesis/adc.v
+C:/DELETE LATER/VGASTARTER/adc/synthesis/submodules/DE10_Lite_ADC_Core_modular_adc_0.v
+C:/DELETE LATER/VGASTARTER/adc/synthesis/submodules/adc_adc_0.v
+C:/DELETE LATER/VGASTARTER/adc/synthesis/submodules/altera_modular_adc_control.v
+C:/DELETE LATER/VGASTARTER/adc/synthesis/submodules/altera_modular_adc_control_avrg_fifo.v
+C:/DELETE LATER/VGASTARTER/adc/synthesis/submodules/altera_modular_adc_control_fsm.v
+C:/DELETE LATER/VGASTARTER/adc/synthesis/submodules/altera_modular_adc_sample_store.v
+C:/DELETE LATER/VGASTARTER/adc/synthesis/submodules/altera_modular_adc_sample_store_ram.v
+C:/DELETE LATER/VGASTARTER/adc/synthesis/submodules/altera_modular_adc_sequencer.v
+C:/DELETE LATER/VGASTARTER/adc/synthesis/submodules/altera_modular_adc_sequencer_csr.v
+C:/DELETE LATER/VGASTARTER/adc/synthesis/submodules/altera_modular_adc_sequencer_ctrl.v
+C:/DELETE LATER/VGASTARTER/adc/synthesis/submodules/altera_reset_controller.sdc
+C:/DELETE LATER/VGASTARTER/adc/synthesis/submodules/altera_reset_controller.v
+C:/DELETE LATER/VGASTARTER/adc/synthesis/submodules/altera_reset_synchronizer.v
+C:/DELETE LATER/VGASTARTER/adc/synthesis/submodules/altera_up_avalon_adv_adc.v
+C:/DELETE LATER/VGASTARTER/adc/synthesis/submodules/chsel_code_converter_sw_to_hw.v
+C:/DELETE LATER/VGASTARTER/adc/synthesis/submodules/fiftyfivenm_adcblock_primitive_wrapper.v
+C:/DELETE LATER/VGASTARTER/adc/synthesis/submodules/fiftyfivenm_adcblock_top_wrapper.v
+C:/DELETE LATER/VGASTARTER/analog_input.sv
+C:/DELETE LATER/VGASTARTER/assignment_defaults.qdf
+C:/DELETE LATER/VGASTARTER/lcd-working.qsf
+C:/DELETE LATER/VGASTARTER/lcd_cmd.qip
+C:/DELETE LATER/VGASTARTER/lcd_cmd.v
+C:/DELETE LATER/VGASTARTER/lcd_cmd_bb.v
+C:/DELETE LATER/VGASTARTER/lcd_cmd_inst.v
+C:/DELETE LATER/VGASTARTER/lcd_connect.qsf
+C:/DELETE LATER/VGASTARTER/lcd_connect_assignment_defaults.qdf
+C:/DELETE LATER/VGASTARTER/lcd_ctrl.sv
+C:/DELETE LATER/VGASTARTER/my_cpu.qpf
+C:/DELETE LATER/VGASTARTER/my_cpu.qsf
+C:/DELETE LATER/VGASTARTER/periphery_control.sv
+C:/DELETE LATER/VGASTARTER/pll25.ppf
+C:/DELETE LATER/VGASTARTER/pll25.qip
+C:/DELETE LATER/VGASTARTER/pll25.v
+C:/DELETE LATER/VGASTARTER/pll25_bb.v
+C:/DELETE LATER/VGASTARTER/pll25_inst.v
+C:/DELETE LATER/VGASTARTER/rev5-initial_working.qsf
+C:/DELETE LATER/VGASTARTER/seven_segment.sv
+C:/DELETE LATER/VGASTARTER/text_lcd_cmd.mif
+C:/DELETE LATER/VGASTARTER/vga_controller.v
+	======= Total: 54 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
