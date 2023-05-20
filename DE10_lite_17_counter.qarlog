@@ -1,16 +1,16 @@
 Quartus Prime Archive log --	C:/Projects/FPGA/FPGA_design_store/DE10_lite_17_counter.qarlog
 
 Archive:	C:/Projects/FPGA/FPGA_design_store/DE10_lite_17_counter.qar
-Date:		Mon May 15 21:08:19 2023
+Date:		Sat May 20 17:21:17 2023
 Quartus Prime		17.0.0 Build 595 04/25/2017 SJ Lite Edition
 
 	=========== Files Selected: ===========
-C:/DELETE LATER/counter/DE10_LITE_Golden_Top.v
-C:/DELETE LATER/counter/counter.qpf
-C:/DELETE LATER/counter/counter.qsf
-C:/DELETE LATER/counter/counter_assignment_defaults.qdf
-C:/DELETE LATER/counter/one_sec.sv
-C:/DELETE LATER/counter/seven_segment.sv
+C:/WORKSHOP/FPGA_design_store/DE10_lite_17_counter_restored1/DE10_LITE_Golden_Top.v
+C:/WORKSHOP/FPGA_design_store/DE10_lite_17_counter_restored1/counter.qpf
+C:/WORKSHOP/FPGA_design_store/DE10_lite_17_counter_restored1/counter.qsf
+C:/WORKSHOP/FPGA_design_store/DE10_lite_17_counter_restored1/counter_assignment_defaults.qdf
+C:/WORKSHOP/FPGA_design_store/DE10_lite_17_counter_restored1/one_sec.sv
+C:/WORKSHOP/FPGA_design_store/DE10_lite_17_counter_restored1/seven_segment.sv
 	======= Total: 6 files to archive =======
 
 	================ Status: ===============
