@@ -1,0 +1,26 @@
+# Ignore everything in subdirectories
+*/*
+
+# Don't ignore these files at the root
+!/*.*
+!LICENSE
+!README.md
+
+# Common FPGA-specific files to ignore (anywhere)
+*.rpt
+*.summary
+*.smsg
+*.qws
+*.bak
+db/
+incremental_db/
+simulation/
+output_files/
+greybox_tmp/
+*.sopcinfo
+*.jdi
+*.pin
+*.qarlog
+
+# Quartus archive files at root level should be retained
+# !/*.qar
